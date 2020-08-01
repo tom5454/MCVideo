@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.tom.mcvideo.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  	"DedicatedServerMixin",
+  	"EntityTrackerEntryMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

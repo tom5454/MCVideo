@@ -1,0 +1,10 @@
+accessWidener	v1	named
+accessible field net/minecraft/item/map/MapState updateTrackersByPlayer Ljava/util/Map;
+accessible field net/minecraft/item/map/MapState banners Ljava/util/Map;
+accessible field net/minecraft/item/map/MapState frames Ljava/util/Map;
+
+accessible field net/minecraft/item/map/MapState$PlayerUpdateTracker startX I
+accessible field net/minecraft/item/map/MapState$PlayerUpdateTracker startZ I
+accessible field net/minecraft/item/map/MapState$PlayerUpdateTracker endX I
+accessible field net/minecraft/item/map/MapState$PlayerUpdateTracker endZ I
+accessible field net/minecraft/item/map/MapState$PlayerUpdateTracker dirty Z
